@@ -1,1 +1,1 @@
-👉[LIVE HERE](calculator-alpha-lilac.vercel.app)
+👉[Live here](calculator-alpha-lilac.vercel.app)
